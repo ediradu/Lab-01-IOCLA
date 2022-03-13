@@ -1,2 +1,2 @@
-# Laboratoare-IOCLA
-În acest repository voi încărca problemele pentru laboratoarele de IOCLA(mai devreme sau mai târziu)
+# Lab-01-IOCLA
+În acest repository voi încărca problemele pentru lab-01(mai devreme sau mai târziu)
