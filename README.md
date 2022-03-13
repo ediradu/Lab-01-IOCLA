@@ -1,2 +1,2 @@
 # Lab-01-IOCLA
-În acest repository voi încărca problemele pentru lab-01(mai devreme sau mai târziu)
+Indicații,discuții(nu știu ce sa scriu pe aici momentan)
